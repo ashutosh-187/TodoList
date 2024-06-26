@@ -1,4 +1,4 @@
-he ToDo List application is built on a robust stack of Node.js, Express.js, and Mongoose, offering a user-friendly task management solution. It leverages Express for server-side routing and handles incoming requests, while Mongoose provides seamless integration with a MongoDB database.
+The ToDo List application is built on a robust stack of Node.js, Express.js, and Mongoose, offering a user-friendly task management solution. It leverages Express for server-side routing and handles incoming requests, while Mongoose provides seamless integration with a MongoDB database.
 
 Users can register and log in securely, with the database validating their credentials. Once logged in, they can efficiently manage tasks by adding, viewing, and deleting them. The application uses Mongoose schemas to structure user data and tasks in the database, ensuring data integrity.
 
